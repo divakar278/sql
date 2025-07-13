@@ -16,7 +16,7 @@ The objective of this project is to:
 ## 🧾 Dataset
 
 > **Name:** layoff.csv 
-> **Description:** [Short description – e.g., Contains customer orders, employee data, sales data, etc.]
+> **Description:** [country, location, layoff count, industry, Layoff Percentage, Date, Fund Raised]
 > **Final Output Name:** output.csv
 
 ---
